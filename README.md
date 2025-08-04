@@ -27,7 +27,7 @@ Design and implement a relational database schema to manage a simple ecommercedb
 ---
 
 ###  SQL Script
-You can find the full SQL schema in the file [`ecommerce_schema.sql`](./ecommerce_schema.sql)
+You can find the full SQL schema in the file (https://github.com/yogitapawar3676-pixel/SQL1/blob/main/SQL%20Task1)
 
 ---
 
