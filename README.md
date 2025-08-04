@@ -32,4 +32,4 @@ You can find the full SQL schema in the file [`ecommerce_schema.sql`](./ecommerc
 ---
 
 ###  ER Diagram
-![ER Diagram](./ER_diagram.png) <!-- Update path if needed -->
+![ER Diagram](https://github.com/yogitapawar3676-pixel/SQL1/blob/main/ER%20diagram.png) <!-- Update path if needed -->
