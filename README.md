@@ -1,14 +1,14 @@
 📁 Task 1: Database Setup and Schema Design
 🎯 Objective
 Design and implement a relational database schema to manage a simple ecommercedb. This task involves creating the necessary tables, defining relationships, and visualizing the entity-relationship model.# SQL1
-### 🛠️ Tools Used
+###  Tools Used
 - **Database:** MySQL
 - **IDE:** MySQL Workbench
 - **Diagram Tool:** MySQL Workbench ER Model 
 
 ---
 
-### 🧱 Schema Overview
+### Schema Overview
 
 #### Tables:
 - `Customer` – Stores customer details
@@ -26,10 +26,10 @@ Design and implement a relational database schema to manage a simple ecommercedb
 
 ---
 
-### 📜 SQL Script
+###  SQL Script
 You can find the full SQL schema in the file [`ecommerce_schema.sql`](./ecommerce_schema.sql)
 
 ---
 
-### 📷 ER Diagram
+###  ER Diagram
 ![ER Diagram](./ER_diagram.png) <!-- Update path if needed -->
